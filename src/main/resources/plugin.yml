@@ -1,0 +1,8 @@
+name: '${project.build.finalName}'
+version: '${project.version}'
+api-version: '1.20'
+author: MarinD99
+main: dev.better.ping.Core
+description: An alternate approach to multiplayer server descriptions.
+depend:
+  - ProtocolLib
